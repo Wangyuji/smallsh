@@ -1,0 +1,5 @@
+\
+file.txt
+makefile
+smallsh
+smallsh.c
