@@ -1,5 +1,5 @@
 make:	smallsh.c
-	gcc -o smallsh smallsh.c -Wall
+	gcc -o smallsh smallsh.c
 	./smallsh
 
 edit:	smallsh.c
